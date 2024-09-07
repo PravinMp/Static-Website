@@ -17,5 +17,5 @@ This project features:
 - **CSS**: For styling the website.
 - **JavaScript**: For interactive features such as adding products to the cart and calculating the total.
 
-## Project Structure
+
 
