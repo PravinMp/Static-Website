@@ -1,9 +1,3 @@
-Certainly! If you have a README file for a project and you'd like to convert it into a more polished format or adapt it for a different context, here’s a template you can follow to ensure it’s clear and useful. I'll provide a general template and example based on the static website setup on AWS that we've discussed.
-
-### Example README for a Static Website Hosted on AWS
-
----
-
 # Static Website Deployment on AWS
 
 ## Overview
@@ -124,10 +118,4 @@ Follow these steps to deploy your static website:
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. For detailed contribution guidelines, refer to the CONTRIBUTING.md file.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this template based on your specific project needs or additional details. If you need help with anything else, just let me know!
