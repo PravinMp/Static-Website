@@ -5,10 +5,8 @@ This repository contains a static website inspired by Flipkart, built using HTML
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Setup Guide](#setup-guide)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
